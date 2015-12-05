@@ -11,3 +11,7 @@ body {
 	font-size: 19px;
 	text-align: justify;
 }
+
+a {
+	text-decoration: none;
+}
