@@ -1,0 +1,13 @@
+.row {
+	font-size: 50px;
+	text-align: center;
+}
+
+body {
+	background-color: #EEE;
+}
+
+.desc {
+	font-size: 19px;
+	text-align: justify;
+}
