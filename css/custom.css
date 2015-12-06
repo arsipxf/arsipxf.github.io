@@ -3,15 +3,33 @@
 	text-align: center;
 }
 
-body {
-	background-color: #EEE;
-}
-
 .desc {
 	font-size: 19px;
 	text-align: justify;
 }
 
+.topmsg {
+	font-size: 22px;
+	font-family: sans;
+}
+
+body {
+	background-color: #EEE;
+}
+
 a {
 	text-decoration: none;
+}
+
+hr {
+	border-color: #424242;
+	border-width: 2px 0;
+}
+
+.table {
+	font-size: 17px;
+}
+
+td, th {
+	text-align: center;
 }
