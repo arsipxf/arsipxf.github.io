@@ -33,3 +33,7 @@ hr {
 td, th {
 	text-align: center;
 }
+
+.light {
+	border-color: grey;
+}
